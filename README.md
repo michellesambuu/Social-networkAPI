@@ -1,10 +1,9 @@
 # Social-networkAPI
 
-<img width="1496" alt="test1" src="https://github.com/michellesambuu/Social-networkAPI/assets/114693523/5c896c80-3bc9-4441-a520-8096fff9dc7a">
+<img width="1496" alt="test" src="https://github.com/michellesambuu/Social-networkAPI/assets/114693523/83a8ba9c-cc06-4ce8-bff9-a231af5da563">
 
-<img width="1496" alt="test3" src="https://github.com/michellesambuu/Social-networkAPI/assets/114693523/d9ea8dbf-26ce-4ba5-9291-924ce3f97249">
+<img width="1496" alt="test3" src="https://github.com/michellesambuu/Social-networkAPI/assets/114693523/d19b76ef-9a37-4007-8f36-81418b401f2e">
 
 
-![test2](https://github.com/michellesambuu/Social-networkAPI/assets/114693523/a713fbb4-416f-4b82-b915-a952f3b1e820)
+<img width="1496" alt="test1" src="https://github.com/michellesambuu/Social-networkAPI/assets/114693523/0aa45208-2155-4406-a9b3-a605fdc6e9d7">
 
-![test4](https://github.com/michellesambuu/Social-networkAPI/assets/114693523/a1733c69-e679-45e1-b82b-0416735241d4)
